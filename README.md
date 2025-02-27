@@ -1,1 +1,1 @@
-a test java repo for jenkins job
+test repo for jenkins job
